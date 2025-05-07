@@ -1,4 +1,4 @@
-# kuran-api
+# kuran-app
 
 A new Flutter project.
 
